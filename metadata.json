@@ -1,0 +1,7 @@
+{
+  "name": "EduEnroll",
+  "description": "A streamlined online platform for managing school and university admissions efficiently. ",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
